@@ -1,4 +1,4 @@
-# Unofficial Implementation of FewShot3DKP (CVPR 2023)
+# FewShot3DKP (Unofficial Implementation)
 
 This is an unofficial implementation of [FewShot3DKP](https://arxiv.org/abs/2303.17216).
 
